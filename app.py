@@ -8,4 +8,6 @@ while count < 20:
     name.append(enter_name)
 
 print("Hello")
+
+print("Lets try git")
 # def abs_count(abs_name):
